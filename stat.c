@@ -1,12 +1,6 @@
 /***************************************************************************
- * Nome: Matheus Henrique Nascimento de Freitas                            *
- * RA: 168.680                                                             *
+ * Nome: Pedro Henrique Maciel Amaral                            *                                                             *
  * Ex 1 - Estatisticas                                                     *
- * Professor: Paulo Paiva                                                  *
- * Data: 04/09/2023                                                        *
- *                                                                         *
- *                                                                         *
- *                                                                         *
  *************************************************************************** 
 */
 
