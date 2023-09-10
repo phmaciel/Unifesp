@@ -1,7 +1,13 @@
 /***************************************************************************
- * Nome: Pedro Henrique Maciel Amaral                            *                                                             *
+ * Nome: Pedro Henrique Maciel Amaral                            *
+ * RA: 166.510                                                             *
  * Ex 1 - Estatisticas                                                     *
- *************************************************************************** 
+ * Professor: Paulo Paiva                                                  *
+ * Data: 04/09/2023                                                        *
+ *                                                                         *
+ *                                                                         *
+ *                                                                         *
+ ************************************************************************* 
 */
 
 
@@ -62,7 +68,7 @@ float calcularDesvioPadrao(float num[], int n) {
         somaDosQuadrados += diferenca * diferenca;
     }
 
-    float variancia = somaDosQuadrados / n;
+    float variancia = somaDosQuadrados / (n - 1); 
     float desvioPadrao = sqrt(variancia);
     return desvioPadrao;
 }
