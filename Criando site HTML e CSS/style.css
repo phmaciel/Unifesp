@@ -1,0 +1,71 @@
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  color: #215A36;
+}
+
+img {
+  height: 200px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+/* Estilos personalizados */
+
+.unifespi {
+  color: #727D83;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.logo {
+  width: 150px;
+}
+
+.cursos {
+  margin-top: 20px;
+}
+
+.curso {
+  margin-bottom: 10px;
+}
+
+.duracao {
+  float: right;
+}
+
+.turno {
+  float: right;
+}
